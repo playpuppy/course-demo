@@ -8,6 +8,10 @@
     {
       "path": "/Hockey",
       "title": "Hockey"
+    },
+    {
+      "path": "/Spiral",
+      "title": "Spiral"
     }
   ]
 }
