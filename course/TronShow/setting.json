@@ -6,8 +6,16 @@
       "title": "Rectangle"
     },
     {
+      "path": "/Rectangle2",
+      "title": "Rectangle2"
+    },
+    {
       "path": "/Hockey",
       "title": "Hockey"
+    },
+    {
+      "path": "/Domino",
+      "title": "Domino"
     },
     {
       "path": "/Spiral",
