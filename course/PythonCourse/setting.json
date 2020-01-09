@@ -1,0 +1,37 @@
+{
+  "title": "Python Course",
+  "list": [
+    {
+      "path": "/About",
+      "title": "Pythonを学ぼう！"
+    },
+    {
+      "path": "/Hello",
+      "title": "Hello World!"
+    },
+    {
+      "path": "/String",
+      "title": "文字列"
+    },
+    {
+      "path": "/Number",
+      "title": "数と計算"
+    },
+    {
+      "path": "/Variable",
+      "title": "変数"
+    },
+    {
+      "path": "/If",
+      "title": "条件分岐"
+    },
+    {
+      "path": "/For",
+      "title": "繰り返し"
+    },
+    {
+      "path": "/FizzBuzz",
+      "title": "FizzBuzzプログラムを書いてみよう！"
+    }
+  ]
+}
