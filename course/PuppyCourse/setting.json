@@ -19,15 +19,19 @@
     },
     {
       "path": "/PuppyObject",
-      "title": "丸や四角を表示させてみよう"
+      "title": "円や四角を表示させてみよう"
     },
     {
-      "path": "/If",
-      "title": "条件分岐"
+      "path": "/Simulation",
+      "title": "重力を設定したり，弾むようにしてみよう"
     },
     {
       "path": "/For",
       "title": "繰り返し"
+    },
+    {
+      "path": "/Domino",
+      "title": "ドミノ"
     }
   ]
 }
