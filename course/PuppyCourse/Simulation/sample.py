@@ -1,8 +1,6 @@
-# おまじない
+from puppy2d import *
 
-
-# 重力を設定してみよう
-
+setGravity(0, -1)
 
 
 # 円を書こう

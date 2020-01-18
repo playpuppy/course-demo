@@ -1,5 +1,4 @@
-# おまじない
-
+from puppy2d import *
 
 # 円を書いてみよう
 

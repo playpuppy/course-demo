@@ -7,7 +7,7 @@
     },
     {
       "path": "/Hello",
-      "title": "Hello World!"
+      "title": "Hello World"
     },
     {
       "path": "/Number",
@@ -19,7 +19,7 @@
     },
     {
       "path": "/Simulation",
-      "title": "重力を設定したり，弾むようにしてみよう"
+      "title": "弾むボール"
     },
     {
       "path": "/For",
